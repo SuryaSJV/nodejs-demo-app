@@ -41,3 +41,13 @@ mutation{
   }
 }
 
+The end of the Pipeline will result in 
+
+1.The docker image in my dockerhub
+  ![alt text](<Screenshot 2025-04-07 121612.png>)
+  
+
+2.after successfull running of container from the image
+  open any browser and search for: http://localhost:5000/graphql
+  it will show like
+  ![alt text](<Screenshot 2025-04-07 121526.png>)
