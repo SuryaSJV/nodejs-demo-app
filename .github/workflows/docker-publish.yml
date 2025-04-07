@@ -27,4 +27,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: suryasjv/nodejs-app:latest
+          tags: suryasjv/nodejs-demo-app:latest
